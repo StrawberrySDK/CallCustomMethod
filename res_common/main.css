@@ -1,0 +1,9 @@
+#main_scene {
+	background-style: color(#858585);
+}
+
+#hello_text {
+	pivot: 0.5 0.5;
+	left: center;
+	top: center;
+}
